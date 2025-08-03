@@ -1,0 +1,9 @@
+#data manipulation - for understanding datasets, identifying problems, planning next steps
+
+#problems - columns, rows, what type of data, missing data
+
+#question - before manipulating data you should know how big is your dataset and what are the names of the columns
+
+#questions - select specific column, filter rows, combine multiple conditions
+
+#creating column, changing values, removing columns
